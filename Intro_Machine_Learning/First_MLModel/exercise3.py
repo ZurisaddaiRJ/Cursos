@@ -8,4 +8,4 @@ iowa_model = DecisionTreeRegressor(random_state=1)
 iowa_model.fit(X, y)
 
 # Check your answer
-step_3.check()
+print(iowa_model)
